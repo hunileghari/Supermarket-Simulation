@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 //File:             Driver.java
 //Course:           CSC232A, Fall 2018
-//Authors:          Yuanming Wang
+//Authors:          Muhammad Hunzala Leghari
 //
 //Acknowledgements: Professor Brian Howard 
 //
